@@ -1,0 +1,309 @@
+{
+  "texture": [
+    {
+      "attributes": {
+        
+      }
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "0",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "99"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "108"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "1",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "88"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "96"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "2",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "78"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "86"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "3",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "66"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "74"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "4",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "54"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "64"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "5",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "44"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "53"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "6",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "33"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "41"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "7",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "23"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "31"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "8",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "11"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "20"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": [
+        {
+          "attributes": {
+            "name": "9",
+            "units": "pixels"
+          }
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "0",
+                "v": "0r"
+              }
+            }
+          ]
+        },
+        {
+          "uv": [
+            {
+              "attributes": {
+                "u": "16",
+                "v": "9"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
